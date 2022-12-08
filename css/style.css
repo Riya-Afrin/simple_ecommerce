@@ -53,5 +53,21 @@ body {
 /* -------bagpack-------- */
 .card-footer{
   background-color: white;
-  /* border-top: none; */
+}
+/* -------subscribe-------- */
+#subscribe{
+height: 300px;
+width: 700px;
+}
+#subscribe h6{
+  color: gray;
+}
+#subscribe button{
+  margin-top: 15px;
+}
+
+/* -----footer--- */
+footer{
+  text-align: center;
+  color: gray;
 }
